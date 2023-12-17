@@ -35,7 +35,6 @@ import java.util.Objects;
 public class FileServiceTests {
 
 	private final static String inputFile = "csv/InputDummy.txt";
-
 	private final static String outputFile = "csv/OutputDummy.csv";
 	private static final String dummyRecordLong  = "315CL  432100020001SGXDC FUSGX NK    20100910JPY01B 0000000001 0000000000000000000060DUSD000000000030DUSD000000000000DJPY201008200012380     688032000092500000000             O";
 	private static final String dummyRecordShort = "315CL  432100020001SGXDC FUSGX NK    20100910JPY01B 0000000000 0000000001000000000060DUSD000000000030DUSD000000000000DJPY201008200012380     688032000092500000000             O";

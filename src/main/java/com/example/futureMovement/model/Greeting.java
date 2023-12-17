@@ -1,3 +1,3 @@
-package com.example.futureMovement;
+package com.example.futureMovement.model;
 
 public record Greeting(long id, String content) { }
